@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🛠️ Solidity Developer | Cybersecurity Specialist  
 
-<!--
-**MrGutsy77/MrGutsy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write smart contracts the way they should be written — secure, efficient, and built to last.  
+Certified in cybersecurity (Security+), with a focus on writing Solidity contracts that don't just work but *hold their ground* when things get messy.  
 
-Here are some ideas to get you started:
+### 🔐 What I Bring to the Table:
+- Solidity development with a focus on **security-first architecture**.  
+- Gas optimization without sacrificing reliability.  
+- A growing arsenal of personal coding strategies — because best practices are a good start, but never the finish line.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Philosophy:
+Code should be paranoid. Assume the worst, plan for worse than that. I write contracts with the mindset that someone's already trying to break them.  
+
+📩 **Need a developer who thinks ahead?**  
+Let's talk: **mr.gutsy77@gmail.com**
